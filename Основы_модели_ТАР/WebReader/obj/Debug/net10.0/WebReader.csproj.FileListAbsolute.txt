@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\WebReader\WebReader\bin\Debug\net10.0\WebReader.exe
+C:\Users\Admin\source\repos\WebReader\WebReader\bin\Debug\net10.0\WebReader.deps.json
+C:\Users\Admin\source\repos\WebReader\WebReader\bin\Debug\net10.0\WebReader.runtimeconfig.json
+C:\Users\Admin\source\repos\WebReader\WebReader\bin\Debug\net10.0\WebReader.dll
+C:\Users\Admin\source\repos\WebReader\WebReader\bin\Debug\net10.0\WebReader.pdb
+C:\Users\Admin\source\repos\WebReader\WebReader\obj\Debug\net10.0\WebReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WebReader\WebReader\obj\Debug\net10.0\WebReader.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WebReader\WebReader\obj\Debug\net10.0\WebReader.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WebReader\WebReader\obj\Debug\net10.0\WebReader.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WebReader\WebReader\obj\Debug\net10.0\WebReader.dll
+C:\Users\Admin\source\repos\WebReader\WebReader\obj\Debug\net10.0\refint\WebReader.dll
+C:\Users\Admin\source\repos\WebReader\WebReader\obj\Debug\net10.0\WebReader.pdb
+C:\Users\Admin\source\repos\WebReader\WebReader\obj\Debug\net10.0\WebReader.genruntimeconfig.cache
+C:\Users\Admin\source\repos\WebReader\WebReader\obj\Debug\net10.0\ref\WebReader.dll
